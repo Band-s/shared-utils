@@ -1,2 +1,2 @@
-export { renderTemplate, type RenderOptions } from "./template.js";
+export { renderTemplate, validateTemplate, type RenderOptions } from "./template.js";
 export { formatCents } from "./money.js";
